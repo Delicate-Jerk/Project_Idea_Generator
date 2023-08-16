@@ -16,7 +16,7 @@ def generate():
         prompt += "The project should include an api"
 
 
-    openai.api_key = "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"
+    openai.api_key = ""
 
 
     Completion = openai.ChatCompletion.create(

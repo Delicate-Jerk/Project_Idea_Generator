@@ -20,3 +20,7 @@ You can install the required libraries using the following command:
 
 ```bash
 pip install openai customtkinter
+```
+<img width="747" alt="Screenshot 2023-08-16 at 12 20 22 PM" src="https://github.com/Delicate-Jerk/Project_Idea_Generator/assets/75275801/501798e4-7698-4286-acfe-5fe39f85f576">
+<img width="742" alt="Screenshot 2023-08-16 at 12 20 34 PM" src="https://github.com/Delicate-Jerk/Project_Idea_Generator/assets/75275801/b5bae70f-589e-4146-b072-3ab4702753e3">
+<img width="802" alt="Screenshot 2023-08-16 at 12 23 34 PM" src="https://github.com/Delicate-Jerk/Project_Idea_Generator/assets/75275801/b9d06762-ee92-425a-8bac-8347103f1cec">

@@ -11,7 +11,7 @@ This is a simple GUI application that generates coding project ideas using OpenA
 
 ## Prerequisites
 
-Before you start make sure you have the following installed:
+Before you start and make sure you have the following installed:
 
 - Python (3.6 or higher)
 - Required libraries: `openai` and `customtkinter`

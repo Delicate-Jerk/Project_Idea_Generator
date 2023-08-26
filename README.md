@@ -16,7 +16,7 @@ Before you start and make sure you have the following installed:
 - Python (3.6 or higher)
 - Required libraries: `openai` and `customtkinter`
 
-You can install the required libraries using the following command:
+You can install the required libraries using the following command: 
 
 ```bash
 pip install openai customtkinter
